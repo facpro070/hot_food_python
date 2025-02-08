@@ -8,7 +8,7 @@
 ## Installation:
 **1.Clone the Repo**
 ```sh
-git clone https://github.com/shyam999/Hot-Food.git
+git clone https://github.com/facpro07/hot_food_python.git
 ```
 **2.Setup pipenv & Install Requirements**
 ```sh
